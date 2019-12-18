@@ -75,7 +75,7 @@ public class CheckoutActivity extends AppCompatActivity {
   /**
    * Initialize the Google Pay API on creation of the activity
    *
-   * @see Activity#onCreate(Bundle)
+   * @see AppCompatActivity#onCreate(Bundle)
    */
   @Override
   protected void onCreate(Bundle savedInstanceState) {

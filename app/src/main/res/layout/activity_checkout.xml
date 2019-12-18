@@ -20,7 +20,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:fillViewport="true"
-    tools:context="com.google.android.gms.samples.wallet.CheckoutActivity">
+    tools:context="com.example.myapplication.googlepay.CheckoutActivity">
 
     <LinearLayout
         android:layout_width="fill_parent"

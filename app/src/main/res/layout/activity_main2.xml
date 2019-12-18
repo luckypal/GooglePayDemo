@@ -28,7 +28,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|left"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_lock_idle_charging" />
+        app:backgroundTint="@android:color/white"
+        app:borderWidth="0dp"
+        app:srcCompat="@drawable/googlepay_float_content" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
