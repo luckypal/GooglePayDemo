@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500093921713",
+    "firebase_url": "https://fbdemo-fc2db.firebaseio.com",
+    "project_id": "fbdemo-fc2db",
+    "storage_bucket": "fbdemo-fc2db.appspot.com"
+  sn},
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500093921713:android:1c4555bca95a2bc34cb590",
+        "android_client_info": {
+          "package_name": "com.fbdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500093921713-92gv5j72l4tlkcqjuul9sh1chog09ci4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFp024ueVWtebJAjvCckoHLIdABTgO5F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500093921713-92gv5j72l4tlkcqjuul9sh1chog09ci4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
